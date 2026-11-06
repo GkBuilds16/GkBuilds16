@@ -1,37 +1,230 @@
-# Hi 👋, I'm P. Gopi Krishna
+ <div align="center">
 
-💻 Computer Science Undergraduate
-🚀 Full Stack Developer | AI Enthusiast
-🧠 700+ DSA Problems Solved
-🌱 Currently exploring Scalable Systems & Machine Learning
-📍 India
+# 👋 Hi, I'm P. Gopi Krishna
 
-"Building software that creates real-world impact."
+### Software Engineer | Full Stack Developer | AI/ML Enthusiast
 
-# 💫 About Me:
-## About Me<br><br>- 🎓 B.Tech CSE @ SRKR Engineering College (CGPA: 8.83)<br>- 💼 AI Intern at Tao Digital<br>- 🏆 Solved 700+ DSA problems across LeetCode, CodeChef & HackerRank<br>- 🌟 GSSoC Contributor<br>- 🎯 Aspiring Software Engineer<br>- 🤖 Interested in AI, ML, Distributed Systems & Backend Engineering
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;700%2B+DSA+Problems+Solved;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Software+Solutions;Open+Source+Contributor" alt="Typing SVG" />
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=GkBuilds16&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/GkBuilds16?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Gopi krishna) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishna00687@gmail.com) 
+**📍 India | 🎓 Computer Science Undergraduate**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=GkBuilds16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=GkBuilds16&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=GkBuilds16&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[LinkedIn](https://www.linkedin.com/in/gopi-krishna-66b129338) • [GitHub](https://github.com/GkBuilds16) • [Email](mailto:krishna00687@gmail.com)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GkBuilds16&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+*"Building software that creates real-world impact."*
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GkBuilds16&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=GkBuilds16&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+I'm **P. Gopi Krishna**, a Computer Science undergraduate at **SRKR Engineering College**, passionate about engineering scalable applications, solving challenging problems, and exploring the intersection of Artificial Intelligence and Software Engineering.
+
+- 🎓 B.Tech in Computer Science and Engineering
+- 📊 Current CGPA: **8.83**
+- 💼 Former **AI Intern at Tao Digital**
+- 🧠 Solved **700+ DSA problems** across LeetCode, CodeChef and HackerRank
+- 🌟 Open-source contributor at **GirlScript Summer of Code (GSSoC)**
+- 🏆 Qualified for **Flipkart GRiD 8.0 – Round 2**
+- 🚀 Interested in Backend Engineering, AI/ML and Distributed Systems
+- 🎯 Aspiring Software Engineer focused on building impactful products
+
+I enjoy transforming complex problems into practical, efficient and maintainable software solutions.
+
+---
+
+## 💻 Technical Skills
+
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+</p>
+
+### Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,tailwind,bootstrap" />
+</p>
+
+### Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,django,flask" />
+</p>
+
+### Databases & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase,supabase,redis,aws,azure,gcp" />
+</p>
+
+### AI / Machine Learning & Data
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+</p>
+
+### Developer Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,figma" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 1. TrustMesh AI
+**AI-Powered Transaction Risk Intelligence**
+
+- Designed an intelligent fraud-risk detection concept focused on identifying suspicious sellers and potentially fraudulent transactions.
+- Focuses on risk assessment and additional verification before high-risk transactions proceed.
+- Exploring AI-assisted financial security and trust mechanisms.
+
+**Tech:** Python, AI/ML, Node.js, MongoDB, PayPal Sandbox
+
+### 2. Mentorax
+**AI-Powered Alumni Mentorship Platform**
+
+- Worked on improving alumni recommendation accuracy and AI-powered career assistance.
+- Explored semantic matching and TF-IDF-based recommendation approaches.
+- Designed an Intelligent Alumni Inbox concept for mentor-student communication.
+
+**Tech:** Java, Spring Boot, Python, FastAPI, AI/ML
+
+[Repository](https://github.com/vinut-hna-coder-6057/Mentorax)
+
+### 3. AdMind
+**AI-Powered Digital Advertising Experience**
+
+- Explored the integration of Machine Learning and NLP to make digital advertising more relevant.
+- Focused on improving ad relevance through intelligent content understanding.
+
+**Tech:** Machine Learning, NLP, Browser Extension Development
+
+### 4. DebugDSA
+**Interactive Data Structures and Algorithms Platform**
+
+- Worked on a platform focused on DSA learning and problem-solving.
+- Explored authentication, leaderboard functionality and backend integration.
+
+**Tech:** React, Node.js, MongoDB, Redis, Firebase
+
+### 5. No Hunger Chatbot
+**Technology for Social Impact**
+
+- Developed a platform concept connecting food donors, NGOs and people in need.
+- Integrated chatbot functionality and role-based user experiences.
+- Focused on reducing food waste and improving food accessibility.
+
+**Tech:** HTML, CSS, JavaScript, Node.js, Express.js, OpenAI API
+
+[GitHub Repository](https://github.com/Gopi-Krishna16/chatbot)
+
+---
+
+## 🏆 Achievements & Recognition
+
+- Solved **700+ Data Structures and Algorithms problems** across competitive programming platforms.
+- Qualified for **Flipkart GRiD 8.0 – Round 2**.
+- Contributed to open-source projects through **GirlScript Summer of Code (GSSoC)**.
+- Successfully contributed features to EaseMotion-css, including:
+  - Scroll Snap Showcase
+  - Animated Status Indicator
+  - Ease Wobble Card Hover
+- Selected for **Amazon ML Summer School 2026**.
+
+---
+
+## 💼 Experience & Leadership
+
+### AI Intern – Tao Digital
+- Gained practical exposure to Artificial Intelligence and software development.
+- Worked on applying technical concepts to real-world problem-solving.
+
+### Open Source Contributor – GSSoC
+- Contributed interactive UI components and animation features.
+- Collaborated through GitHub forks and pull requests.
+
+### Leadership & Responsibilities
+- **Webmaster – TEDx:** Contributing to website-related responsibilities.
+- **College Event Web Coordinator:** Supporting web development and event-related digital initiatives.
+- **Student Tribe Coordinator:** Involved in student community coordination.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GkBuilds16&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GkBuilds16&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=GkBuilds16&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GkBuilds16&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=GkBuilds16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%" />
+
+</div>
+
+---
+
+## 🧠 Competitive Programming
+
+- **700+ problems solved** across LeetCode, CodeChef and HackerRank.
+- Strong focus on Data Structures, Algorithms and problem-solving patterns.
+- Continuously improving problem-solving efficiency and coding skills.
+
+---
+
+## 🎯 Currently Exploring
+
+- Advanced Backend Engineering
+- Distributed Systems and Scalable Architecture
+- Artificial Intelligence and Machine Learning
+- System Design and API Development
+- Cloud Technologies and Production-Ready Applications
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, engineers, recruiters and innovators working on exciting technology.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gopi-krishna-66b129338">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:krishna00687@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/GkBuilds16">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+### 💡 "Code. Build. Learn. Repeat."
+
+**Building today. Innovating tomorrow.**
+
+</div>
