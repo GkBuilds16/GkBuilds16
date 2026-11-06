@@ -1,21 +1,19 @@
  <div align="center">
 
-# 👋 Hi, I'm P. Gopi Krishna
+# Hi 👋, I'm P. Gopi Krishna
 
-### Software Engineer | Full Stack Developer | AI/ML Enthusiast
+### 💻 Full Stack Developer | AI/ML Enthusiast | Computer Science Undergraduate
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;700%2B+DSA+Problems+Solved;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Software+Solutions;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;700%2B+DSA+Problems+Solved;Building+Scalable+Backend+Systems;Turning+Ideas+Into+Real-World+Impact" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=GkBuilds16&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/GkBuilds16?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=GkBuilds16&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://img.shields.io/github/followers/GkBuilds16?label=Followers&style=social" />
 </p>
 
-**📍 India | 🎓 Computer Science Undergraduate**
+📍 India | 🎓 B.Tech CSE @ SRKR Engineering College
 
-[LinkedIn](https://www.linkedin.com/in/gopi-krishna-66b129338) • [GitHub](https://github.com/GkBuilds16) • [Email](mailto:krishna00687@gmail.com)
-
-*"Building software that creates real-world impact."*
+**"Building software that creates real-world impact."**
 
 </div>
 
@@ -23,147 +21,165 @@
 
 ## 💫 About Me
 
-I'm **P. Gopi Krishna**, a Computer Science undergraduate at **SRKR Engineering College**, passionate about engineering scalable applications, solving challenging problems, and exploring the intersection of Artificial Intelligence and Software Engineering.
-
-- 🎓 B.Tech in Computer Science and Engineering
-- 📊 Current CGPA: **8.83**
-- 💼 Former **AI Intern at Tao Digital**
+- 🎓 B.Tech in Computer Science and Engineering @ SRKR Engineering College (2024–2028)
+- 📊 CGPA: **8.83**
+- 💼 AI Intern @ **Tao Digital** (May 2026 – July 2026)
+- 💻 Full Stack Developer Intern @ **ZeTheta** (October 2026 – December 2026)
 - 🧠 Solved **700+ DSA problems** across LeetCode, CodeChef and HackerRank
-- 🌟 Open-source contributor at **GirlScript Summer of Code (GSSoC)**
-- 🏆 Qualified for **Flipkart GRiD 8.0 – Round 2**
-- 🚀 Interested in Backend Engineering, AI/ML and Distributed Systems
-- 🎯 Aspiring Software Engineer focused on building impactful products
-
-I enjoy transforming complex problems into practical, efficient and maintainable software solutions.
+- 🏆 HackerRank Orchestrate Challenge participant – ranked 1,500 among 4,094 participants
+- 🌟 Open Source Contributor – GSSoC 2026 & SWOC 2025
+- 🚀 Flipkart GRiD 8.0 Round 2 Qualifier
+- 🤖 Interested in AI/ML, Backend Engineering, Distributed Systems and Scalable Applications
+- 🎯 Aspiring Software Engineer passionate about building impactful products
 
 ---
 
-## 💻 Technical Skills
+## 💼 Experience
 
-### Programming Languages
+**AI Intern – Tao Digital**
+*May 2026 – July 2026*
+
+- Gained practical experience in AI-driven software development.
+- Worked on applying technical concepts and problem-solving approaches to real-world applications.
+
+**Full Stack Developer Intern – ZeTheta**
+*October 2026 – December 2026*
+
+- Working on full-stack application development and software engineering workflows.
+- Applying frontend, backend and database concepts to build functional applications.
+
+---
+
+## 🚀 Projects
+
+**TrustMesh AI – AI-Powered Fraud Prevention Gateway** *(In Progress)*
+
+- Developing an intelligent risk assessment system to identify suspicious sellers and potentially fraudulent transactions.
+- Designed an Allow / Review / Block decision engine with evidence-based risk explanations.
+- Integrating PayPal Orders API and sandbox payment workflows.
+
+`React` `Vite` `Node.js` `Express.js` `MongoDB` `PayPal API` `LLMs`
+
+**AlumniConnect – Alumni Networking & Mentorship Platform**
+
+- Building a platform to connect students with alumni for mentorship, networking and career guidance.
+- Focused on creating meaningful alumni recommendations and engagement.
+
+`Java` `Spring Boot` `React` `MySQL`
+
+**DebugDSA – Interactive DSA Platform**
+
+- Worked on an interactive platform for DSA learning and problem-solving.
+- Integrated authentication, leaderboard functionality and backend services.
+
+`React` `Node.js` `MongoDB` `Redis` `Firebase`
+
+**LoopLens – Intelligent Application**
+
+- Developed as part of my software project portfolio.
+- Focused on building a practical, user-oriented software solution.
+
+**AdMind – AI-Powered Digital Advertising**
+
+- Explored AI, Machine Learning and NLP to improve digital advertising relevance.
+- Focused on intelligent content understanding and personalized ad experiences.
+
+**No Hunger – Food Waste & Hunger Management Platform**
+
+- Developed a platform concept connecting food donors, NGOs and people in need.
+- Designed role-based workflows and chatbot functionality to support food redistribution.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **HackerRank Orchestrate:** Ranked 1,500 among 4,094 participants.
+- 🏅 **Flipkart GRiD 8.0:** Qualified for Round 2.
+- 💻 **700+ DSA Problems:** Solved across multiple coding platforms.
+- 📈 **Smart Interviews:** Completed DSA Training Program and ranked among the top 10% in internal contests.
+- 🌟 **GSSoC 2026:** Open-source contributor.
+- 🚀 **SWOC 2025:** Open-source contributor.
+- 🤖 **Amazon ML Summer School 2026:** Selected participant.
+
+---
+
+## 🎯 Mentorships & Programs
+
+- Amazon ML Summer School 2026
+- GirlScript Summer of Code (GSSoC) 2026
+- Social Winter of Code (SWOC) 2025
+- Smart Interviews – DSA Training Program
+
+---
+
+## 👨‍💻 Positions of Responsibility
+
+- 🌐 **Webmaster – TEDx:** Responsible for website-related development and coordination.
+- 💻 **College Event Web Coordinator – Student Tribe:** Supporting web development and digital coordination for college events.
+
+---
+
+## 💻 Tech Stack
+
+**Programming Languages**
+
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
 </p>
 
-### Frontend Development
+**Frontend Development**
+
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,tailwind,bootstrap" />
 </p>
 
-### Backend Development
+**Backend Development**
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,django,flask" />
 </p>
 
-### Databases & Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase,supabase,redis,aws,azure,gcp" />
-</p>
+**AI / Machine Learning**
 
-### AI / Machine Learning & Data
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
 </p>
 
-### Developer Tools
+`XGBoost` `Sentence Transformers` `FAISS` `Semantic Search` `OpenAI API` `NLP`
+
+**Databases**
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,figma" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase,redis,supabase" />
 </p>
 
----
+**Cloud & Developer Tools**
 
-## 🚀 Featured Projects
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,git,github,docker,vscode,postman,figma" />
+</p>
 
-### 1. TrustMesh AI
-**AI-Powered Transaction Risk Intelligence**
+**Core Concepts**
 
-- Designed an intelligent fraud-risk detection concept focused on identifying suspicious sellers and potentially fraudulent transactions.
-- Focuses on risk assessment and additional verification before high-risk transactions proceed.
-- Exploring AI-assisted financial security and trust mechanisms.
+`Data Structures & Algorithms` `OOP` `DBMS` `REST APIs` `JWT Authentication` `WebSockets` `System Design`
 
-**Tech:** Python, AI/ML, Node.js, MongoDB, PayPal Sandbox
+**Soft Skills**
 
-### 2. Mentorax
-**AI-Powered Alumni Mentorship Platform**
-
-- Worked on improving alumni recommendation accuracy and AI-powered career assistance.
-- Explored semantic matching and TF-IDF-based recommendation approaches.
-- Designed an Intelligent Alumni Inbox concept for mentor-student communication.
-
-**Tech:** Java, Spring Boot, Python, FastAPI, AI/ML
-
-[Repository](https://github.com/vinut-hna-coder-6057/Mentorax)
-
-### 3. AdMind
-**AI-Powered Digital Advertising Experience**
-
-- Explored the integration of Machine Learning and NLP to make digital advertising more relevant.
-- Focused on improving ad relevance through intelligent content understanding.
-
-**Tech:** Machine Learning, NLP, Browser Extension Development
-
-### 4. DebugDSA
-**Interactive Data Structures and Algorithms Platform**
-
-- Worked on a platform focused on DSA learning and problem-solving.
-- Explored authentication, leaderboard functionality and backend integration.
-
-**Tech:** React, Node.js, MongoDB, Redis, Firebase
-
-### 5. No Hunger Chatbot
-**Technology for Social Impact**
-
-- Developed a platform concept connecting food donors, NGOs and people in need.
-- Integrated chatbot functionality and role-based user experiences.
-- Focused on reducing food waste and improving food accessibility.
-
-**Tech:** HTML, CSS, JavaScript, Node.js, Express.js, OpenAI API
-
-[GitHub Repository](https://github.com/Gopi-Krishna16/chatbot)
+Problem Solving · Analytical Thinking · Communication · Teamwork · Adaptability · Time Management
 
 ---
 
-## 🏆 Achievements & Recognition
-
-- Solved **700+ Data Structures and Algorithms problems** across competitive programming platforms.
-- Qualified for **Flipkart GRiD 8.0 – Round 2**.
-- Contributed to open-source projects through **GirlScript Summer of Code (GSSoC)**.
-- Successfully contributed features to EaseMotion-css, including:
-  - Scroll Snap Showcase
-  - Animated Status Indicator
-  - Ease Wobble Card Hover
-- Selected for **Amazon ML Summer School 2026**.
-
----
-
-## 💼 Experience & Leadership
-
-### AI Intern – Tao Digital
-- Gained practical exposure to Artificial Intelligence and software development.
-- Worked on applying technical concepts to real-world problem-solving.
-
-### Open Source Contributor – GSSoC
-- Contributed interactive UI components and animation features.
-- Collaborated through GitHub forks and pull requests.
-
-### Leadership & Responsibilities
-- **Webmaster – TEDx:** Contributing to website-related responsibilities.
-- **College Event Web Coordinator:** Supporting web development and event-related digital initiatives.
-- **Student Tribe Coordinator:** Involved in student community coordination.
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GkBuilds16&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GkBuilds16&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GkBuilds16&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=GkBuilds16&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+<img width="65%" src="https://streak-stats.demolab.com?user=GkBuilds16&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -179,52 +195,60 @@ I enjoy transforming complex problems into practical, efficient and maintainable
 
 ---
 
-## 🏅 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=GkBuilds16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=GkBuilds16&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
 ---
 
-## 🧠 Competitive Programming
+## ✍️ Random Dev Quote
 
-- **700+ problems solved** across LeetCode, CodeChef and HackerRank.
-- Strong focus on Data Structures, Algorithms and problem-solving patterns.
-- Continuously improving problem-solving efficiency and coding skills.
+<div align="center">
 
----
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-## 🎯 Currently Exploring
-
-- Advanced Backend Engineering
-- Distributed Systems and Scalable Architecture
-- Artificial Intelligence and Machine Learning
-- System Design and API Development
-- Cloud Technologies and Production-Ready Applications
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 🔝 Top Contributed Repositories
 
-I'm always interested in connecting with developers, engineers, recruiters and innovators working on exciting technology.
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=GkBuilds16&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+
+</div>
+
+---
+
+## 🌐 Socials
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/gopi-krishna-66b129338">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
+
 <a href="mailto:krishna00687@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://github.com/GkBuilds16">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
 </a>
 
-### 💡 "Code. Build. Learn. Repeat."
+</div>
 
-**Building today. Innovating tomorrow.**
+---
+
+<div align="center">
+
+### 💡 "Code with purpose. Build with passion. Innovate with impact."
+
+⭐ Thanks for visiting my profile!
 
 </div>
